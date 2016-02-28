@@ -1,0 +1,10 @@
+{
+  "homepage": "http://upbase.upstatement.com/",
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/Upstatement/upbase"
+  },
+  "name": "upbase",
+  "private": true,
+  "version": "0.0.0"
+}
