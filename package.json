@@ -1,10 +1,24 @@
 {
+  "name": "upbase",
+  "main": "scss/_upbase.scss",
+  "description": "Bespoke Sass mixin library from Upstatement",
   "homepage": "http://upbase.upstatement.com/",
+  "url" : "https://github.com/Upstatement/upbase/issues",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/upstatement/upbase.git"
+  },
+  "email" : "info@upstatement.com",
   "license": {
     "type": "MIT",
-    "url": "https://github.com/Upstatement/upbase"
+    "url": "https://github.com/Upstatement/upbase/blob/master/LICENSE.md"
   },
-  "name": "upbase",
   "private": true,
-  "version": "0.0.0"
+  "version": "1.0.0",
+  "keywords": [
+    "css",
+    "sass",
+    "scss",
+    "mixins"
+  ]
 }
